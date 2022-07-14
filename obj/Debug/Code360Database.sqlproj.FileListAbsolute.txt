@@ -1,0 +1,6 @@
+C:\Users\USER\Source\Repos\Code360Database\bin\Debug\Code360Database.dacpac
+C:\Users\USER\Source\Repos\Code360Database\bin\Debug\Code360Database.dll
+C:\Users\USER\Source\Repos\Code360Database\bin\Debug\Code360Database.pdb
+C:\Users\USER\Source\Repos\Code360Database\obj\Debug\Code360Database.sqlproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Code360Database\obj\Debug\Code360Database.dll
+C:\Users\USER\Source\Repos\Code360Database\obj\Debug\Code360Database.pdb
